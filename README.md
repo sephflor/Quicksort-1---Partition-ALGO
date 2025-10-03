@@ -1,1 +1,1 @@
-# Quicksort-1---Partition-ALGO
+# Quicksort-1---Partition-ALGO.This implements the classic quicksort algorithm using the first element as the pivot, recursively sorting elements smaller than the pivot into the left partition and larger elements into the right partition, then combining them with the pivot in the middle.
